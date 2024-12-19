@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Hi dev1 hello update me
+=======
 Hi hello
+>>>>>>> 4e5dcce312be3e13828a0e37e714b0a9ddf8915d
